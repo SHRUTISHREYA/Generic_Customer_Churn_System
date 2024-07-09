@@ -1,0 +1,11 @@
+CustomerID,Gender,Geography,Age,Tenure,Balance,Churn
+15634602,Female,France,42,2,0.0,1
+15647311,Female,Spain,41,1,83807.86,0
+15619304,Male,France,42,8,159660.8,0
+15701354,Male,Germany,39,1,0.0,0
+15737888,Female,France,43,2,125510.82,0
+15574012,Female,Spain,44,8,113755.78,1
+15592531,Male,Spain,50,7,0.0,1
+15656148,Male,France,29,4,115046.74,0
+15792365,Female,France,44,4,142051.07,0
+15592389,Male,Germany,27,2,134603.88,1
